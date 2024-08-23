@@ -11,7 +11,7 @@ A sleek, responsive Todo application built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-Experience the Todo App in action: [Todo App Live Demo](https://yourtodoapp.example.com)
+Experience the Todo App in action: [Todo App Live Demo](https://debasish-barman-0011.github.io/TODO/)
 
 ## 🛠️ Technologies Used
 
@@ -40,3 +40,26 @@ Feel free to customize the color scheme by modifying the CSS variables in the `:
   --text-color: #34495e;
 }
 ```
+
+## 🚀 My Other Existing Projects :
+
+## 🌟 CodeCrafter :
+
+Experience my passion for web development: [Portfolio Live Demo](https://debasish-barman-0011.github.io/My-Portfolio/)
+
+## 🌟 SnapSafari :
+
+Discover captivating photos at SnapSafari: [SnapSafari Live Demo](https://snap-safari.netlify.app/)
+
+## 🌟 CampusQuest :
+
+I Found a Glitch on Brainware University Portal and from there CampusQuest can access the original image of student ID cards.
+[CampusQuest Live Demo](https://debasish-barman-0011.github.io/Campus-Quest/)
+
+## 🌟 FiberFlow :
+
+Tracking Payments, Ensuring Connectivity - FiberFlow : [FiberFlow Live Demo](http://fiberflow.great-site.net/)
+
+## 🌟 PurePlay :
+
+Enjoy Add-free Youtube at PurePlay : [Pure Play Live Demo](https://pure-play.netlify.app/)
